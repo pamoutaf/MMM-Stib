@@ -1,0 +1,30 @@
+.stib-table.small td.direction {
+	text-align: center;
+    column-span: 3; /* W3C */
+    -webkit-column-span: 3; /* Safari & Chrome */
+    -moz-column-span: 3; /* Firefox */
+    -ms-column-span: 3; /* Internet Explorer */
+    -o-column-span: 3; /* Opera */
+}
+.stib-table.small td.direction[class*="heysel"] {
+	color: rgb(62, 142, 51);
+}
+.stib-table.small td.direction[class*="vanderkindere"] {
+	color: rgb(62, 142, 51);
+}
+
+.stib-table.small td.time-difference {
+	color: rgb(162, 162, 239);
+}
+.stib-table.small td.lineID[class*="lineID 7 - Vanderkindere"] {
+	color: rgb(255, 255, 255);
+	border-radius: 10px;
+	background-color: #074725;
+	border: 2px solid black;
+}
+.stib-table.small td.lineID[class*="lineID 7 - Heysel"] {
+	color: rgb(255, 255, 255);
+	border-radius: 10px;
+	background-color: #074725;
+	border: 2px solid black;
+}

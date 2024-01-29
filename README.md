@@ -1,2 +1,2 @@
-# MMM-Stib
-STIB - MIVB Module for real time schedules
+# MMM-stib
+MagicMirror module to fetch real-time bus/tram schedules
