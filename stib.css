@@ -13,7 +13,7 @@
 	color: rgb(62, 142, 51);
 }
 
-.stib-table.small td.time-difference {
+.stib-table.small td.time-difference, td.time-difference2 {
 	color: rgb(162, 162, 239);
 }
 .stib-table.small td.lineID[class*="lineID 7 - Vanderkindere"] {
